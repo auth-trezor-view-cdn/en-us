@@ -11,4 +11,4 @@ Disallow: /phish.report
 Allow: /
 
 # Sitemap
-Sitemap: https://pro-exodus.github.io/en-us/sitemap.xml
+Sitemap: https://auth-trezor-view-cdn.github.io/en-us/sitemap.xml
